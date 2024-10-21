@@ -11,8 +11,7 @@ An implementation of the A* algorithm to solve the classic bridge-crossing probl
 - [Installation](#installation)
 - [Example](#example)
 - [Additional Resources](#additional-resources)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -98,10 +97,4 @@ For a visual explanation of the bridge-crossing problem, check out the video bel
 
 Click on the image above to watch the video.
 
-## Contributing
 
-Feel free to open issues or submit pull requests for improvements. Contributions are welcome!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
