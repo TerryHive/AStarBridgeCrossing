@@ -9,9 +9,7 @@ An implementation of the A* algorithm to solve the classic bridge-crossing probl
 - [How It Works](#how-it-works)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
+- [additional resources](#additional resources)
 
 ## Description
 
@@ -49,7 +47,7 @@ Compile the Java Files
 Navigate to the src directory and compile the files:
 
 bash
-Αντιγραφή κώδικα
+
 javac *.java
 Run the Program
 To execute the program, run:
@@ -64,3 +62,9 @@ maximum_time: The maximum time allowed for all individuals to cross the bridge.
 Example
 bash
 java Main 4 1 2 5 10 30
+
+
+## Additional Resources
+
+For a visual explanation of the bridge-crossing problem, check out this [YouTube video](https://www.youtube.com/watch?v=Ppx7-Y9_ub0&t=1s).
+
