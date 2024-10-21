@@ -1,6 +1,5 @@
 # AStarBridgeCrossing
 
-# AStarBridgeCrossing
 
 An implementation of the A* algorithm to solve the classic bridge-crossing problem using Artificial Intelligence techniques. This project is structured in Java and demonstrates the application of heuristic-based search to find the optimal path for a group of individuals crossing a bridge under time constraints.
 
