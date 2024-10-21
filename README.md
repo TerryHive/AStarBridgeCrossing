@@ -8,8 +8,7 @@ An implementation of the A* algorithm to solve the classic bridge-crossing probl
 - [Files](#files)
 - [How It Works](#how-it-works)
 - [Usage](#usage)
-- [Installation](#installation)
-- [additional resources](#additional resources)
+- [additional resources](#additional-resources)
 
 ## Description
 
